@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001-Hello World", "001-Hello World\001-Hello World.csproj", "{102A3C0E-A1E5-4781-AE4F-C2FE172BDBF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "053-委托的使用", "053-委托的使用\053-委托的使用.csproj", "{533C196C-A4F3-4546-928E-8211A885D70A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "054-递归函数", "054-递归函数\054-递归函数.csproj", "{B972E271-1B99-41E2-921A-0DA7212BE0F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "055-用递归函数求阶层", "055-用递归函数求阶层\055-用递归函数求阶层.csproj", "{B97B4EAA-5B50-4B1D-A759-7296B12737E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{102A3C0E-A1E5-4781-AE4F-C2FE172BDBF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{102A3C0E-A1E5-4781-AE4F-C2FE172BDBF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{102A3C0E-A1E5-4781-AE4F-C2FE172BDBF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{102A3C0E-A1E5-4781-AE4F-C2FE172BDBF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{533C196C-A4F3-4546-928E-8211A885D70A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{533C196C-A4F3-4546-928E-8211A885D70A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{533C196C-A4F3-4546-928E-8211A885D70A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{533C196C-A4F3-4546-928E-8211A885D70A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B972E271-1B99-41E2-921A-0DA7212BE0F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B972E271-1B99-41E2-921A-0DA7212BE0F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B972E271-1B99-41E2-921A-0DA7212BE0F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B972E271-1B99-41E2-921A-0DA7212BE0F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B97B4EAA-5B50-4B1D-A759-7296B12737E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B97B4EAA-5B50-4B1D-A759-7296B12737E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B97B4EAA-5B50-4B1D-A759-7296B12737E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B97B4EAA-5B50-4B1D-A759-7296B12737E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F4CB464-4F02-4474-98D4-E37A5D170339}
+	EndGlobalSection
+EndGlobal
